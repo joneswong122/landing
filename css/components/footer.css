@@ -1,0 +1,33 @@
+.footer {
+  padding: 60px;
+  display: felx;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.footer .links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer .links a{
+  color:green;
+  font-size: 20px;
+  margin: 10px 5px;
+}
+
+.fa-solid, .fa-heart {
+  color: red;
+}
+
+.footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: grey;
+  font-weight: lighter;
+  font-size: 16px;
+  margin: 0 20px 0 0;
+}

@@ -1,0 +1,27 @@
+.banner {
+  text-align: start;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.banner h1{
+  color: white
+}
+
+.banner p{
+  color: grey
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.btn-green{
+  padding: 15px;
+  background-color: green;
+  border: 1px solid green;
+  border-radius: 15px;
+  color: white;
+  display: inline-block;
+}
